@@ -1,4 +1,4 @@
-# measure_pwm
+# measure_pwm_jitter
 M. Karadzic, F. Uncanin, K. Zoric
 
 Uputstvo za inicijalizaciju celog projekta:
